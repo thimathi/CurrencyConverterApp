@@ -16,7 +16,7 @@ A React Native application that allows users to convert currencies between diffe
 
 ### Prerequisites
 - Node.js and npm/yarn installed
-- React Native CLI set up
+- Expo CLI set up
 - An active API key from a currency exchange rate provider (e.g., Open Exchange Rates, CurrencyLayer, Fixer.io)
 
 ### Steps
