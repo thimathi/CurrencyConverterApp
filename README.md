@@ -10,7 +10,6 @@ A React Native application that allows users to convert currencies between diffe
 - Error handling for invalid input and network issues.
 - Bonus Features (Optional):
   - Support for multiple target currencies.
-  - Light and dark mode toggle.
   - Smooth animations and transitions.
 
 ## Installation
